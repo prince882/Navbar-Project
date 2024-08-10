@@ -1,0 +1,36 @@
+.bar{
+  border: 2px solid blue;
+  height: 40px;
+  display:flex;
+  background-color: darkturquoise;
+/* justify-content: flex-end; */
+  
+}
+body{
+  margin: 0;
+  padding: 0;
+}
+.list{
+  display:flex;
+  flex-direction: row;
+  list-style-type: none;
+  
+}
+.i{
+  margin:0px 10px;
+}
+.logo{
+  margin-right:50vw;
+}
+.g1{
+  height: 20px;
+  width:15px;
+}
+li img{
+  width: 25px;
+  margin: 0px 0px;
+}
+.inf{
+width: 46px;
+  
+}
